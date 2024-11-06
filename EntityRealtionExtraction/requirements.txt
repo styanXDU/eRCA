@@ -1,0 +1,2 @@
+jieba
+pyltp==0.2.1
